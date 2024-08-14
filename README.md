@@ -1,7 +1,13 @@
 # 同學，瓦力 WALL-Chatbot
-中原資管備審及面試輔助 Line Bot
+中原資管備審及面試輔助 Line Bot - AI-Powered Line Bot for University Applicant
 
-## 功能導覽：
+## 使用技術
+* Django
+* Line Bot
+* Google Gemini
+* OpenAI Whisper
+
+## 功能導覽
 
 ### 認識中原
   
