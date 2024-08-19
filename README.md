@@ -1,5 +1,9 @@
-# 同學，瓦力 WALL-Chatbot
-中原資管備審及面試輔助 Line Bot - AI-Powered Line Bot for University Applicant
+<div align="center">
+  <img width="256px" height="256px" src="https://i.imgur.com/IZsbJdq.jpg" />
+  <h1>同學，瓦力 WALL-Chatbot</h1>
+  <p>中原資管備審及面試輔助 Line Bot</p>
+  <p>AI-Powered Line Bot for University Applicant</p>
+</div>
 
 ## 使用技術
 * Django
